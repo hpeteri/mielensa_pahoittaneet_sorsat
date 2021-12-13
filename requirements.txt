@@ -1,0 +1,3 @@
+pypng==0.0.21
+pyinstaller==4.5.1
+noise==1.2.2
