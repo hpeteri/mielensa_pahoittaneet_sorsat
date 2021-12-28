@@ -4,8 +4,8 @@
 block_cipher = None
 
 
-a = Analysis(['src\\main.py'],
-             pathex=['D:\\Opisto\\Kesken\\OhjelmoinninAlkeet\\MielensäPahoittaneetSorsat_HenrikPeteri'],
+a = Analysis(['src/main.py'],
+             pathex=['/home/henrik/Workspace/Projects_Finished/Mielensa_Pahoittaneet_Sorsat_OhjAlk_2021'],
              binaries=[],
              datas=[],
              hiddenimports=[],
