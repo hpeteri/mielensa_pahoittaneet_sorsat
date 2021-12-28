@@ -1,5 +1,5 @@
-./build/
-./dist/
+/build/
+/dist/
 main.spec
 main.exe
 /__pycache__/
